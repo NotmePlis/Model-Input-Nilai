@@ -1,0 +1,37 @@
+test_alasan_dan_huruf_wajib_valid (test_app.ApplicationTests.test_alasan_dan_huruf_wajib_valid) ... ok
+test_batas_predikat (test_app.ApplicationTests.test_batas_predikat) ... ok
+test_edit_nilai_dan_audit (test_app.ApplicationTests.test_edit_nilai_dan_audit) ... ok
+test_form_tanpa_csrf_ditolak (test_app.ApplicationTests.test_form_tanpa_csrf_ditolak) ... ok
+test_fungsi_ips_ipk_dan_transkrip (test_app.ApplicationTests.test_fungsi_ips_ipk_dan_transkrip) ... ok
+test_halaman_utama_dan_riwayat (test_app.ApplicationTests.test_halaman_utama_dan_riwayat) ... ok
+test_input_nilai_pada_presensi_tepat_75 (test_app.ApplicationTests.test_input_nilai_pada_presensi_tepat_75) ... ok
+test_mahasiswa_semester_awal_dan_semester_kosong (test_app.ApplicationTests.test_mahasiswa_semester_awal_dan_semester_kosong) ... ok
+test_mahasiswa_tidak_bisa_input_atau_lihat_transkrip_orang_lain (test_app.ApplicationTests.test_mahasiswa_tidak_bisa_input_atau_lihat_transkrip_orang_lain) ... ok
+test_nilai_dan_audit_rollback_bersamaan (test_app.ApplicationTests.test_nilai_dan_audit_rollback_bersamaan) ... ok
+test_pdf_bisa_diunduh (test_app.ApplicationTests.test_pdf_bisa_diunduh) ... ok
+test_pdf_mahasiswa_belum_ada_nilai (test_app.ApplicationTests.test_pdf_mahasiswa_belum_ada_nilai) ... ok
+test_riwayat_tidak_bisa_dihapus (test_app.ApplicationTests.test_riwayat_tidak_bisa_dihapus) ... ok
+test_setiap_update_sql_masuk_audit (test_app.ApplicationTests.test_setiap_update_sql_masuk_audit) ... ok
+test_tolak_presensi_kurang_75 (test_app.ApplicationTests.test_tolak_presensi_kurang_75) ... ok
+test_update_tanpa_actor_ditolak (test_app.ApplicationTests.test_update_tanpa_actor_ditolak) ... ok
+test_belum_ada_nilai (test_app.GPATests.test_belum_ada_nilai) ... ok
+test_bobot_sks_berbeda (test_app.GPATests.test_bobot_sks_berbeda) ... ok
+test_campuran_belum_ada_nilai (test_app.GPATests.test_campuran_belum_ada_nilai) ... ok
+test_huruf_tidak_valid (test_app.GPATests.test_huruf_tidak_valid) ... ok
+test_ips_memasukkan_E (test_app.GPATests.test_ips_memasukkan_E) ... ok
+test_mk_diulang_nilai_naik (test_app.GPATests.test_mk_diulang_nilai_naik) ... ok
+test_mk_diulang_nilai_turun (test_app.GPATests.test_mk_diulang_nilai_turun) ... ok
+test_mk_ulang_tidak_menggandakan_sks (test_app.GPATests.test_mk_ulang_tidak_menggandakan_sks) ... ok
+test_nilai_D_lulus_sesuai_aturan_tugas (test_app.GPATests.test_nilai_D_lulus_sesuai_aturan_tugas) ... ok
+test_nilai_E_tidak_masuk_ipk (test_app.GPATests.test_nilai_E_tidak_masuk_ipk) ... ok
+test_nilai_belum_diinput (test_app.GPATests.test_nilai_belum_diinput) ... ok
+test_pembulatan_dua_desimal (test_app.GPATests.test_pembulatan_dua_desimal) ... ok
+test_pengulangan_dengan_nilai_sama (test_app.GPATests.test_pengulangan_dengan_nilai_sama) ... ok
+test_semua_A (test_app.GPATests.test_semua_A) ... ok
+test_semua_E (test_app.GPATests.test_semua_E) ... ok
+test_sks_nol (test_app.GPATests.test_sks_nol) ... ok
+
+----------------------------------------------------------------------
+Ran 32 tests in 5.578s
+
+OK
